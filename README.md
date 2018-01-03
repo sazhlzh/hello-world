@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+只是另一个仓库
+这是我创建的仓库，欢迎大家来做客！
